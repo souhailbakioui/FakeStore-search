@@ -6,6 +6,12 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+#search_form{
+  /* width: 10% !important; */
+  display: flex;
+  gap: 10px;
+  padding-bottom: 30px ;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
